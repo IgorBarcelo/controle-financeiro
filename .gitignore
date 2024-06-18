@@ -1,0 +1,22 @@
+# Ignorar node_modules no frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Ignorar arquivos de log
+/logs
+*.log
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do ambiente de desenvolvimento
+/frontend/.env.local
+/frontend/.env.*.local
+
+# Ignorar pastas bin e obj na API .NET
+/api/bin/
+/api/obj/
