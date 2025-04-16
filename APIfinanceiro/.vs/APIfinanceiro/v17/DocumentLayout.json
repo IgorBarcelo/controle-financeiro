@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|c:\\users\\heske\\documents\\projeto\\controle-financeiro\\apifinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Controllers\\TitulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:Controllers\\TitulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Controllers\\TitulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TitulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
