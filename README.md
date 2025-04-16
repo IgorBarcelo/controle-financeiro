@@ -14,7 +14,7 @@ Aplicação full-stack para gerenciamento de títulos financeiros, permitindo a 
 
 ### Backend
 
-- [ASP.NET Core 6](https://dotnet.microsoft.com/): Framework para construção de APs
+- [ASP.NET Core 6](https://dotnet.microsoft.com/): Framework para construção de APIs
 - [Entity Framework Core](https://docs.microsoft.com/ef/core/): ORM para interação com o banco de dados
 
 ## ✅ Funcionalidades
