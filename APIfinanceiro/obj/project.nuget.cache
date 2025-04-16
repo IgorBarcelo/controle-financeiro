@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqP4W+fNm8P380kFXNkoZBsr0mITCS/yIVW+VH42shgTXzg1Ln/qcQPSJjv3O3WYnRhLHqtKYoKyIpRBNbEVBw==",
+  "dgSpecHash": "hWDu2ougV1KXPpTGMAlFayfVmT6RquALLdz59ZzgjuybDcmqpblONAZ+PBHnA8pE5dGRwSLARD6r4jrKzJX2nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\APIfinanceiro.csproj",
+  "projectFilePath": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\APIfinanceiro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\heske\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\heske\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

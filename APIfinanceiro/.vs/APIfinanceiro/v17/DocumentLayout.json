@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\",
+  "WorkspaceRootPath": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\controllers\\tituloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:controllers\\tituloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|c:\\users\\heske\\documents\\projeto\\controle-financeiro\\apifinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|c:\\users\\heske\\documents\\projeto\\apifinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Controllers\\TitulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD04D89D-3DBD-4601-BC8C-CC08966233A6}|APIfinanceiro.csproj|solutionrelative:Controllers\\TitulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,12 +25,20 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\Program.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,27 +49,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Titulo.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\Models\\Titulo.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Models\\Titulo.cs",
               "RelativeDocumentMoniker": "Models\\Titulo.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\Models\\Titulo.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Models\\Titulo.cs",
               "RelativeToolTip": "Models\\Titulo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:24:02.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T15:24:02.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TitulosController.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\Controllers\\TitulosController.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Controllers\\TitulosController.cs",
               "RelativeDocumentMoniker": "Controllers\\TitulosController.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\APIfinanceiro\\Controllers\\TitulosController.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\controle-financeiro\\APIfinanceiro\\Controllers\\TitulosController.cs",
               "RelativeToolTip": "Controllers\\TitulosController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwDEAAAA8AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:11:39.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T15:11:39.595Z"
             }
           ]
         }
