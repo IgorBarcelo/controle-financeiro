@@ -3,7 +3,7 @@ Aplicação full-stack para gerenciamento de títulos financeiros, permitindo a 
 
 ## 📸 Demonstração
 
-![Demo](./public/demo.png)
+![Demo](https://github.com/IgorBarcelo/controle-financeiro/blob/main/public/demo.png?raw=true)
 ---
 ## 🛠️ Tecnologias Utilizadas
 
